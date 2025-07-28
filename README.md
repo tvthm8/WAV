@@ -1,5 +1,7 @@
 # 🧠 WAV AI  – Part 1
 
+<img src = "Screenshot 2025-07-28 2.11.28 AM.png" widith = "200" length = "200">
+
 **WAV** (Web-Accessing Virtual Assistant) is a lightweight, terminal-based AI agent designed for interactive and personalized web search. This is Part 1 of an evolving assistant project focused on foundational user interactions and AI-driven information retrieval.
 
 ## ✅ Features
